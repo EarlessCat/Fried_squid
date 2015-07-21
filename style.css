@@ -1,0 +1,28 @@
+body{
+   color: #f0f2f2;
+   background-color: #121313; 
+
+}
+html {
+    cursor: url(http://www.w3schools.com/cssref/smiley.gif),auto;
+}
+img {
+	width: 50%;
+	height: 50%;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+img:hover{
+	opacity:0.5;
+}
+.toolbox {
+  background-color:  #009FCC;
+  color: #000000;
+  text-align: center;
+}
+
+.click:hover {
+  color: #9900FF;
+  background: #FF8888; 
+}
